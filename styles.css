@@ -1,0 +1,18 @@
+.historyandTotal{
+    background-color: #22392c;
+    color: ivory;
+    border-radius: 20px;
+    padding: 2%;
+    margin-top: 2%;
+}
+.history{
+    background-color: #d2b48c ;  
+    border-radius: 20px;
+    padding-right: 2%;
+}
+.total{
+    background-color: #d2b48c ;  
+    border-radius: 20px;
+    padding-left: 2%;
+
+}
