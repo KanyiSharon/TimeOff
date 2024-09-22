@@ -4,15 +4,20 @@
     border-radius: 20px;
     padding: 2%;
     margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    color: black;
 }
 .history{
     background-color: #d2b48c ;  
     border-radius: 20px;
-    padding-right: 2%;
+    padding: 2%;
+
 }
 .total{
     background-color: #d2b48c ;  
     border-radius: 20px;
-    padding-left: 2%;
+    padding: 2%;
+    padding-bottom: 7%;
 
 }
